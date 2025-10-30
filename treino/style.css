@@ -2,4 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+} body{
+    margin: 400px;
+    padding: 20px;
+    border: solid 10px black;
 }
